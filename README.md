@@ -11,7 +11,7 @@ Babashka pod for SSH support.
 
 ## Using
 
-Here is a simple script that connects over ssh, the runs a command and disconnects, returning the standard output:
+Here is a simple script that connects over ssh, then runs a command and disconnects, returning the standard output:
 
 ```clojure
 (ns test-simple.core
